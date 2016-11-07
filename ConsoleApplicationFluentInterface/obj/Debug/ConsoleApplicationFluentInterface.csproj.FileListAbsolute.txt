@@ -1,0 +1,8 @@
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\bin\Debug\ConsoleApplicationFluentInterface.exe.config
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\bin\Debug\ConsoleApplicationFluentInterface.exe
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\bin\Debug\ConsoleApplicationFluentInterface.pdb
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\obj\Debug\ConsoleApplicationFluentInterface.exe
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\obj\Debug\ConsoleApplicationFluentInterface.pdb
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\bin\Debug\LightInject.dll
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\bin\Debug\LightInject.pdb
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ConsoleApplicationFluentInterface\bin\Debug\LightInject.xml
