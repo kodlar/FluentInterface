@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationFluentInt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationFluentInterfaceWithGeneric", "ConsoleApplicationFluentInterfaceWithGeneric\ConsoleApplicationFluentInterfaceWithGeneric.csproj", "{C246C678-6504-4438-A5F1-FB23CCDAC59D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextRepository", "ContextRepository\ContextRepository.csproj", "{593F809D-6F85-44A1-A62B-B1E61F1A5C5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C246C678-6504-4438-A5F1-FB23CCDAC59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C246C678-6504-4438-A5F1-FB23CCDAC59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C246C678-6504-4438-A5F1-FB23CCDAC59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593F809D-6F85-44A1-A62B-B1E61F1A5C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593F809D-6F85-44A1-A62B-B1E61F1A5C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593F809D-6F85-44A1-A62B-B1E61F1A5C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593F809D-6F85-44A1-A62B-B1E61F1A5C5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
