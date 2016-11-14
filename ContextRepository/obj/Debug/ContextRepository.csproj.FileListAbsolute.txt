@@ -1,0 +1,9 @@
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\bin\Debug\ContextRepository.exe.config
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\obj\Debug\ContextRepository.csprojResolveAssemblyReference.cache
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\bin\Debug\ContextRepository.exe
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\bin\Debug\ContextRepository.pdb
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\bin\Debug\LightInject.dll
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\bin\Debug\LightInject.pdb
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\bin\Debug\LightInject.xml
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\obj\Debug\ContextRepository.exe
+C:\Users\okeskiner\Documents\My Web Sites\ConsoleApplicationFluentInterface\ContextRepository\obj\Debug\ContextRepository.pdb
